@@ -1,0 +1,25 @@
+body{
+    padding-top: 3rem
+  }
+  #slider{
+      height: 50vh;
+      position: relative;
+  }
+  
+  
+  #silder-item{
+      height: 50vh;
+  }
+  
+  #slider-row{
+      height: 50vh;
+  }
+  
+  #prev{
+      position: absolute;
+      left: -3%;
+  }
+  #next{
+      position: absolute;
+      right: -3%;
+  }
